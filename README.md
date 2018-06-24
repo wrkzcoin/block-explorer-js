@@ -15,4 +15,4 @@ Donate: [Wrkz] WrkzRNDQDwFCBynKPc459v3LDa1gEGzG3j962tMUBko1fw9xgdaS9mNiGMgA9s1q7
 
 ### Note
 
-A lot of this code is from the great Karbovanets/Karbowanec-Blockchain-Explorer & https://github.com/turtlecoin/block-explorer
+A lot of this code is from the great Karbovanets/Karbowanec-Blockchain-Explorer & turtlecoin/block-explorer
